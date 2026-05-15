@@ -9,8 +9,7 @@ Machine Learning and Deep Learning.
 I'm fascinated by high-impact software systems that solve real-world problems — 
 whether that's intelligent systems that can see and make decisions, 
 or scalable web applications that millions of people interact with every day.
-I'm particularly drawn to how AI and software engineering intersect, 
-especially in fields like robotics and computer vision.
+I'm particularly drawn to how AI and software engineering intersect.
 
 ## 👩🏽‍💻Currently Learning
 - Data Structures & Algorithms
